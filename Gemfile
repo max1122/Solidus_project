@@ -49,3 +49,4 @@ gem 'solidus'
 gem 'solidus_auth_devise'
 
 gem "solidus_shipstation", github: 'boomerdigital/solidus_shipstation'
+gem 'postmates'
